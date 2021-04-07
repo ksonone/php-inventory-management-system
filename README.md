@@ -21,6 +21,7 @@ store_url in db_connect.php
 Login Credentials
 Id : admin
 password : admin
-```
+
 Adding Product
 create a directory 'assets/images/stock'
+'''
