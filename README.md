@@ -22,3 +22,5 @@ Login Credentials
 Id : admin
 password : admin
 ```
+Adding Product
+create a directory 'assets/images/stock'
